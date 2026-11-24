@@ -1,6 +1,11 @@
-# FinGuard AI
+# FinGuard AI (Next.js App Router Edition)
 
 AI-assisted FinTech Transaction & Risk Compliance Dashboard built with **Next.js (App Router)**, **React 19**, **TypeScript (`strict`)**, **Tailwind CSS**, **Zod**, **Vercel AI SDK + Gemini**, and **Vitest**.
+
+> Part of the **FinGuard AI Framework Trio**:
+> - **Next.js Edition** *(this repo)*
+> - [Nuxt 3 Edition](https://github.com/emrahtepe/finguard-ai-nuxt)
+> - [Angular 19 Edition](https://github.com/emrahtepe/finguard-ai-angular)
 
 ## Architecture Highlights
 
